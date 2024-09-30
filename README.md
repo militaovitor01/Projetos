@@ -7,6 +7,7 @@ Este repositório contém links para outros repositorios contendo alguns dos pro
 * [Portfolio Pessoal](https://github.com/militaovitor01/Portfolio)
 * [Alura Plus](https://github.com/militaovitor01/AluraPlus)
 * [Alura Books](https://github.com/militaovitor01/AluraBooks)
+* [Lista de Compras](https://github.com/militaovitor01/Lista-de-Compras)
 
 ## Projetos Acadêmicos Práticos
 
