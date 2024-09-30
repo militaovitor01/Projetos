@@ -13,3 +13,7 @@ Este repositório contém links para outros repositorios contendo alguns dos pro
 * [Trabalho Interdisciplinar 1 ](https://github.com/ICEI-PUC-Minas-PMGCC-TI/ti-1-pmg-cc-m-20231-tiaw-moda-e-estilo) - Front-End - 1o Período
 * [Trabalho Interdisciplinar 2 ](https://github.com/ICEI-PUC-Minas-CC-TI/plmg-cc-2023-2-ti2-g27-tunerater) - Fullstack - 2o Período
 * [Trabalho Interdisciplinar 3 ](https://github.com/militaovitor01/TI3) - Artigo Científico - 3o Período
+
+## Outros Projetos
+* [Consumo de API/CEP](https://github.com/militaovitor01/Desafio_APICEP_Alura) - Java
+* [Desafio Aplicação de Compras](https://github.com/militaovitor01/Desafio_Aplicacao_de_compras_Alura/tree/main) - Java POO
