@@ -8,6 +8,7 @@ Este repositório contém links para outros repositorios contendo alguns dos pro
 * [Alura Plus](https://github.com/militaovitor01/AluraPlus)
 * [Alura Books](https://github.com/militaovitor01/AluraBooks)
 * [Lista de Compras](https://github.com/militaovitor01/Lista-de-Compras)
+* [Code Connect](https://github.com/militaovitor01/Code-Connect)
 
 ## Projetos Acadêmicos Práticos
 
