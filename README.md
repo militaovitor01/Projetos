@@ -5,10 +5,12 @@ Este repositório contém links para outros repositorios contendo alguns dos pro
 ## Front-End
 
 * [Portfolio Pessoal](https://github.com/militaovitor01/Portfolio)
-* [Alura Plus](https://github.com/militaovitor01/AluraPlus)
+* [Code Connect](https://github.com/militaovitor01/Code-Connect)
 * [Alura Books](https://github.com/militaovitor01/AluraBooks)
 * [Lista de Compras](https://github.com/militaovitor01/Lista-de-Compras)
-* [Code Connect](https://github.com/militaovitor01/Code-Connect)
+* [Alura Plus](https://github.com/militaovitor01/AluraPlus)
+
+
 
 ## Projetos Acadêmicos Práticos
 
