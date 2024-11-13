@@ -6,6 +6,7 @@ Este repositório contém links para outros repositorios contendo alguns dos pro
 
 * [Portfolio Pessoal](https://github.com/militaovitor01/Portfolio)
 * [Code Connect](https://github.com/militaovitor01/Code-Connect)
+* [ShoesDay](https://github.com/militaovitor01/Code-Connect](https://github.com/militaovitor01/ShoesDay))
 * [Alura Books](https://github.com/militaovitor01/AluraBooks)
 * [Lista de Compras](https://github.com/militaovitor01/Lista-de-Compras)
 * [Alura Plus](https://github.com/militaovitor01/AluraPlus)
