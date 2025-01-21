@@ -11,7 +11,7 @@ Este repositório contém links para outros repositorios contendo alguns dos pro
 * [Alura Books JS](https://github.com/militaovitor01/Alura-Books-JS)
 * [Lista de Compras](https://github.com/militaovitor01/Lista-de-Compras)
 * [Alura Plus](https://github.com/militaovitor01/AluraPlus)
-
+* [Fokus](https://github.com/militaovitor01/Fokus)
 
 
 ## Projetos Acadêmicos Práticos
