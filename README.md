@@ -5,13 +5,15 @@ Este repositório contém links para outros repositorios contendo alguns dos pro
 ## Front-End
 
 * [Portfolio Pessoal](https://github.com/militaovitor01/Portfolio-2.0)
+* [Fokus](https://github.com/militaovitor01/Fokus)
+* [Memoteca](https://github.com/militaovitor01/Memoteca)
 * [Code Connect](https://github.com/militaovitor01/Code-Connect)
 * [ShoesDay](https://github.com/militaovitor01/ShoesDay)
 * [Alura Books](https://github.com/militaovitor01/AluraBooks)
 * [Alura Books JS](https://github.com/militaovitor01/Alura-Books-JS)
 * [Lista de Compras](https://github.com/militaovitor01/Lista-de-Compras)
 * [Alura Plus](https://github.com/militaovitor01/AluraPlus)
-* [Fokus](https://github.com/militaovitor01/Fokus)
+
 
 
 ## Projetos Acadêmicos Práticos
