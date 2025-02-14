@@ -7,6 +7,7 @@ Este repositório contém links para outros repositorios contendo alguns dos pro
 * [Portfolio Pessoal](https://github.com/militaovitor01/Portfolio-2.0)
 * [Fokus](https://github.com/militaovitor01/Fokus)
 * [Memoteca](https://github.com/militaovitor01/Memoteca)
+* [VidFlow](https://github.com/militaovitor01/nodejs-vidflow-vite)
 * [Code Connect](https://github.com/militaovitor01/Code-Connect)
 * [ShoesDay](https://github.com/militaovitor01/ShoesDay)
 * [Alura Books](https://github.com/militaovitor01/AluraBooks)
