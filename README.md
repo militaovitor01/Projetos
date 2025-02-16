@@ -15,6 +15,10 @@ Este repositório contém links para outros repositorios contendo alguns dos pro
 * [Lista de Compras](https://github.com/militaovitor01/Lista-de-Compras)
 * [Alura Plus](https://github.com/militaovitor01/AluraPlus)
 
+## Back-End
+
+* [AluraBooks Server](https://github.com/militaovitor01/alura-books-server) - Node.js
+
 
 
 ## Projetos Acadêmicos Práticos
