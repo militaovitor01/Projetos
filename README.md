@@ -17,7 +17,7 @@ Este repositório contém links para outros repositorios contendo alguns dos pro
 
 ## Back-End
 
-* [AluraBooks Server](https://github.com/militaovitor01/alura-books-server) - Node.js
+* [AluraBooks Server](https://github.com/militaovitor01/alura-books-server) - Node.js + Express
 
 
 
