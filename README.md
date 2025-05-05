@@ -18,6 +18,7 @@ Este repositório contém links para outros repositorios contendo alguns dos pro
 ## Back-End
 
 * [AluraBooks Server](https://github.com/militaovitor01/alura-books-server) - Node.js + Express
+* [SliceHeaven](https://github.com/militaovitor01/sliceheaven.api) - Java + SpringBoot
 
 
 
@@ -27,6 +28,7 @@ Este repositório contém links para outros repositorios contendo alguns dos pro
 * [Trabalho Interdisciplinar 2 ](https://github.com/ICEI-PUC-Minas-CC-TI/plmg-cc-2023-2-ti2-g27-tunerater) - Fullstack - 2o Período
 * [Trabalho Interdisciplinar 3 ](https://github.com/militaovitor01/TI3) - Artigo Científico - 3o Período
 * [Trabalho Interdisciplinar 4 ](https://github.com/Neon-Remnant) - Game Development - 4o Período
+* [Trabalho Interdisciplinar 5 ](https://github.com/militaovitor01/timecare) - Sistemas Computacionais - 5o Período
 
 ## Outros Projetos
 * [Consumo de API/CEP](https://github.com/militaovitor01/Desafio_APICEP_Alura) - Java
